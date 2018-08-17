@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534513451 source:c:\users\user37\desktop\alocacao_de_memoria_para_matriz_+eficiente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
